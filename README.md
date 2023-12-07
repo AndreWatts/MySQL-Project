@@ -24,7 +24,6 @@ The dataset under scrutiny encompasses a rich array of global information, rangi
 
 To visually represent the data structure, an Entity-Relationship Diagram (EER) has been meticulously crafted. This diagram serves as a blueprint, illustrating the primary keys, foreign keys, and relationships between entities within the dataset.
 
-[Link to EER Diagram](./images/EER_Diagram.png)
 
 ## Repository Structure 📁
 
